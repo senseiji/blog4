@@ -15,16 +15,9 @@
 - title: Blog
   url: "/blog/"
   side: right
-  dropdown:
-  - title: "Blog Archive"
-    url: "/blog/archive/"
+
 
 
 - title: "About Us"
-  url: "/contact/"
-  side: right
-
-
-- title: "Contact Us"
   url: "/contact/"
   side: right
