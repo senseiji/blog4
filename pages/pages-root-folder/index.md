@@ -9,19 +9,20 @@ header:
   image_fullwidth: rafael-garcin-sqZ4GeyYGx8-unsplash.jpg
 widget1:
   title: "Hands-On Classes"
-  url: '/blog/'
-  image: widget-1-302x182.jpg
+  url: '/Courses/'
+  image: jason-goodman-Oalh2MojUuk-unsplash.jpg
   text: 'We deliver, in person and online hands-on classes. This is where we teach participants the joy of handling data, and delivering clear and understandble materials'
 widget2:
   title: "Blogs and Articles"
-  url: 'http://phlow.github.io/feeling-responsive/info/'
-  text: '<em>Feeling Responsive</em> is heavily customizable.<br/>1. Language-Support :)<br/>2. Optimized for speed and it&#39;s responsive.<br/>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,...'
-  video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
+  url: '/blog/'
+  image: unseen-studio-s9CC2SKySJM-unsplash.jpg
+  text: 'We deliver, in person and online hands-on classes. This is where we teach participants the joy of handling data, and delivering clear and understandble materials'
+
 widget3:
   title: "Self Learn Tutorials"
-  url: 'https://github.com/Phlow/feeling-responsive'
-  image: widget-github-303x182.jpg
-  text: '<em>Feeling Responsive</em> is free and licensed under a MIT License. Make it your own and start building. The code is well-documented and explains you how it works.'
+  url: /tutorials/'
+  image: sanket-mishra-r11DL_vyJ7I-unsplash.jpg
+  text: 'Nothing like trying out the work yoursalf'
 #
 # Use the call for action to show a button on the frontpage
 #
