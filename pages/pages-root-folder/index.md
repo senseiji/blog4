@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: header_unsplash_12.jpg
+  image_fullwidth: rafael-garcin-sqZ4GeyYGx8-unsplash.jpg
 widget1:
   title: "Hands-On Classes"
   url: '/blog/'
