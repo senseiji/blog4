@@ -18,7 +18,6 @@ image:
     thumb: Data-Engineering-Courses-Online-300x300.jpg
     homepage: Data-Engineering-Courses-Online-300x300.jpg
 
-mediaplayer: true
 ---
 
 
