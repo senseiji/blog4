@@ -17,9 +17,9 @@ tags:
 #
 header: no
 image:
-    title: mediaplayer_js-title.jpg
+    title: Data-Engineering-Courses-Online-300x300.jpg
     thumb: mediaplayer_js-thumb.jpg
-    homepage: mediaplayer_js-home.jpg
+    homepage: Data-Engineering-Courses-Online-300x300.jpg
     caption: Photo by Corey Blaz
     caption_url: https://blaz.photography/
 mediaplayer: true
