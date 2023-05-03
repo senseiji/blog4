@@ -5,10 +5,7 @@ layout: page
 #
 subheadline: "Data Engineering"
 title: "Best Data Engineering Hackathon In India"
-teaser: "Data being the new fuel with future looking promising, the field has plenty of career opportunities to offer in data engineering, machine learning and data analytics. Accessibility to new age courses has significantly increased.
-
-
-With competitive c"
+teaser: "Data being the new fuel with future looking promising, the field has plenty of career opportunities to offer in data engineering, machine learning and data analytics. Accessibility to new age courses has significantly increased.With competitive c"
 categories:
   - Data Engineering
 
