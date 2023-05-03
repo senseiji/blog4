@@ -14,9 +14,9 @@ categories:
 #
 header: no
 image:
-    title: Data-Engineering-Courses-Online-300x300.jpg
-    thumb: Data-Engineering-Courses-Online-300x300.jpg
-    homepage: Data-Engineering-Courses-Online-300x300.jpg
+    title: how-can-a-non-iitian-get-into-google-thumbnail.jpg
+    thumb: how-can-a-non-iitian-get-into-google-thumbnail.jpg
+    homepage: how-can-a-non-iitian-get-into-google-thumbnail.jpg
 
 ---
 

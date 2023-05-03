@@ -14,9 +14,9 @@ categories:
 #
 header: no
 image:
-    title: Data-Engineering-Courses-Online-300x300.jpg
-    thumb: Data-Engineering-Courses-Online-300x300.jpg
-    homepage: Data-Engineering-Courses-Online-300x300.jpg
+    title: class-12th-student-without-math-you-can-become-a-data-engineer-thumbnail.jpg
+    thumb: class-12th-student-without-math-you-can-become-a-data-engineer-thumbnail.jpg
+    homepage: class-12th-student-without-math-you-can-become-a-data-engineer-thumbnail.jpg
 
 ---
 

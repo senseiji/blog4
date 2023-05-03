@@ -14,9 +14,9 @@ categories:
 #
 header: no
 image:
-    title: Data-Engineering-Courses-Online-300x300.jpg
-    thumb: Data-Engineering-Courses-Online-300x300.jpg
-    homepage: Data-Engineering-Courses-Online-300x300.jpg
+    title: best-data-engineering-hackathon-in-india-thumbnail.jpg
+    thumb: best-data-engineering-hackathon-in-india-thumbnail.jpg
+    homepage: best-data-engineering-hackathon-in-india-thumbnail.jpg
 
 ---
 

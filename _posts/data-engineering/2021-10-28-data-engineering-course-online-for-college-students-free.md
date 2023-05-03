@@ -14,9 +14,9 @@ categories:
 #
 header: no
 image:
-    title: Data-Engineering-Courses-Online-300x300.jpg
-    thumb: Data-Engineering-Courses-Online-300x300.jpg
-    homepage: Data-Engineering-Courses-Online-300x300.jpg
+    title: data-engineering-course-online-for-college-students-free-thumbnail.jpg
+    thumb: data-engineering-course-online-for-college-students-free-thumbnail.jpg
+    homepage: data-engineering-course-online-for-college-students-free-thumbnail.jpg
 
 ---
 

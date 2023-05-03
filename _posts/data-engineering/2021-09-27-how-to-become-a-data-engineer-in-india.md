@@ -14,9 +14,9 @@ categories:
 #
 header: no
 image:
-    title: Data-Engineering-Courses-Online-300x300.jpg
-    thumb: Data-Engineering-Courses-Online-300x300.jpg
-    homepage: Data-Engineering-Courses-Online-300x300.jpg
+    title: how-to-become-a-data-engineer-in-india-thumbnail.jpg
+    thumb: how-to-become-a-data-engineer-in-india-thumbnail.jpg
+    homepage: how-to-become-a-data-engineer-in-india-thumbnail.jpg
 
 ---
 

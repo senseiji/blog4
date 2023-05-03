@@ -14,9 +14,9 @@ categories:
 #
 header: no
 image:
-    title: Data-Engineering-Courses-Online-300x300.jpg
-    thumb: Data-Engineering-Courses-Online-300x300.jpg
-    homepage: Data-Engineering-Courses-Online-300x300.jpg
+    title: best-machine-learning-hackathon-in-india-thumbnail.jpg
+    thumb: best-machine-learning-hackathon-in-india-thumbnail.jpg
+    homepage: best-machine-learning-hackathon-in-india-thumbnail.jpg
 
 ---
 

@@ -14,9 +14,9 @@ categories:
 #
 header: no
 image:
-    title: Data-Engineering-Courses-Online-300x300.jpg
-    thumb: Data-Engineering-Courses-Online-300x300.jpg
-    homepage: Data-Engineering-Courses-Online-300x300.jpg
+    title: what-is-the-gcp-cloud-engineer-certification-cost-in-india-thumbnail.jpg
+    thumb: what-is-the-gcp-cloud-engineer-certification-cost-in-india-thumbnail.jpg
+    homepage: what-is-the-gcp-cloud-engineer-certification-cost-in-india-thumbnail.jpg
 
 ---
 

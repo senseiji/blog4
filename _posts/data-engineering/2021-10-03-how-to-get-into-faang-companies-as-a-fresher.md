@@ -14,9 +14,9 @@ categories:
 #
 header: no
 image:
-    title: Data-Engineering-Courses-Online-300x300.jpg
-    thumb: Data-Engineering-Courses-Online-300x300.jpg
-    homepage: Data-Engineering-Courses-Online-300x300.jpg
+    title: how-to-get-into-faang-companies-as-a-fresher-thumbnail.jpg
+    thumb: how-to-get-into-faang-companies-as-a-fresher-thumbnail.jpg
+    homepage: how-to-get-into-faang-companies-as-a-fresher-thumbnail.jpg
 
 ---
 

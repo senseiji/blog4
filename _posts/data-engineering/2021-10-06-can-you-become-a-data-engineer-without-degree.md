@@ -14,9 +14,9 @@ categories:
 #
 header: no
 image:
-    title: Data-Engineering-Courses-Online-300x300.jpg
-    thumb: Data-Engineering-Courses-Online-300x300.jpg
-    homepage: Data-Engineering-Courses-Online-300x300.jpg
+    title: can-you-become-a-data-engineer-without-degree-thumbnail.jpg
+    thumb: can-you-become-a-data-engineer-without-degree-thumbnail.jpg
+    homepage: can-you-become-a-data-engineer-without-degree-thumbnail.jpg
 
 ---
 
