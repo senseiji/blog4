@@ -22,10 +22,19 @@ layout: compress
 </body>
 </html>
 
+
 <script>
 	document.addEventListener("DOMContentLoaded", function () {
 	  var preElements = document.querySelectorAll("pre");
 	  preElements.forEach(function (preElement) {
+		var codeElement = preElement.querySelector("code");
+		var lang = codeElement.className.replace("language-", "");
+  
+		var label = document.createElement("span");
+		label.className = "code-label";
+		label.textContent = lang;
+		preElement.appendChild(label);
+  
 		var button = document.createElement("button");
 		button.className = "copy-button";
 		button.textContent = "Copy";
@@ -34,6 +43,9 @@ layout: compress
 	});
   </script>
   
+
+
+
 
 
 <script>
