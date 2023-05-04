@@ -67,7 +67,7 @@ def generate_text(prompt, model='text-davinci-002', max_tokens=150):
     )
 
     return response.choices[0].text.strip()
-%}
+" %}
 
 You can customize the `model`, `max_tokens`, and other parameters based on your requirements.
 
