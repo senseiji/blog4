@@ -49,7 +49,7 @@ sitemap:
 @import "11_syntax-highlighting.scss";
 
 
-.code-block {
+pre {
   position: relative;
   padding: 1em;
   border: 1px solid #ccc;
@@ -58,7 +58,7 @@ sitemap:
   overflow-x: auto;
 }
 
-.code-block .copy-button {
+.copy-button {
   position: absolute;
   top: 0;
   right: 0;
@@ -71,6 +71,6 @@ sitemap:
   cursor: pointer;
 }
 
-.code-block .copy-button:hover {
+.copy-button:hover {
   background-color: #d0d0d0;
 }

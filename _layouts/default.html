@@ -23,6 +23,24 @@ layout: compress
 </html>
 
 <script>
-	new ClipboardJS('.copy-button');
-</script>
+	document.addEventListener("DOMContentLoaded", function () {
+	  var preElements = document.querySelectorAll("pre");
+	  preElements.forEach(function (preElement) {
+		var button = document.createElement("button");
+		button.className = "copy-button";
+		button.textContent = "Copy";
+		preElement.appendChild(button);
+	  });
+	});
+  </script>
+  
+
+
+<script>
+	new ClipboardJS('.copy-button', {
+	  target: function(trigger) {
+		return trigger.parentElement;
+	  }
+	});
+  </script>
   
