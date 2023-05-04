@@ -54,20 +54,32 @@ pre {
   padding: 1em;
   border: 1px solid #ccc;
   border-radius: 4px;
-  background-color: #f8f8f8;
+  background-color: #000;
   overflow-x: auto;
+  margin-top: 1em;
+}
+
+.code-label {
+  position: absolute;
+  top: -1em;
+  left: 0;
+  padding: 0.2em 0.5em;
+  font-size: 0.8em;
+  color: #666;
+  background-color: #e0e0e0;
+  border-radius: 4px 4px 0 0;
 }
 
 .copy-button {
   position: absolute;
-  top: 0;
+  top: -1em;
   right: 0;
   padding: 0.2em 0.5em;
   font-size: 0.8em;
   color: #666;
   background-color: #e0e0e0;
   border: none;
-  border-radius: 0 4px 0 0;
+  border-radius: 4px 4px 0 0;
   cursor: pointer;
 }
 
