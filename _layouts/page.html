@@ -35,7 +35,7 @@ format: post
 			</p>
 			{% endif %}
 
-			<div itemprop="articleSection">
+			<div itemprop="articleSection" class="post-content">
 			{{ content }}
 			</div>
 
@@ -63,3 +63,29 @@ format: post
 	</div><!-- /.medium-4.columns -->
 	{% endif %}
 </div><!-- /.row -->
+
+<script>
+	document.addEventListener("DOMContentLoaded", function () {
+	  var preElements = document.querySelectorAll(".post-content pre");
+	  preElements.forEach(function (preElement) {
+		var button = document.createElement("button");
+		button.className = "copy-button";
+		button.textContent = "Copy";
+		preElement.appendChild(button);
+	  });
+  
+	  var clipboard = new ClipboardJS(".copy-button", {
+		target: function (trigger) {
+		  return trigger.previousElementSibling;
+		},
+	  });
+  
+	  clipboard.on("success", function (e) {
+		e.trigger.textContent = "Copied!";
+		setTimeout(function () {
+		  e.trigger.textContent = "Copy";
+		}, 2000);
+	  });
+	});
+  </script>
+  
