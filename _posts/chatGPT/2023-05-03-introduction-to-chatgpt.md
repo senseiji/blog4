@@ -55,7 +55,7 @@ openai.api_key = "your_api_key_here"
 
 Now, let's create a function that sends a prompt to ChatGPT and returns the generated text:
 
-{% include code_block.html lang="python" code="
+```python
 def generate_text(prompt, model='text-davinci-002', max_tokens=150):
     response = openai.Completion.create(
         engine=model,
@@ -67,7 +67,7 @@ def generate_text(prompt, model='text-davinci-002', max_tokens=150):
     )
 
     return response.choices[0].text.strip()
-" %}
+```
 
 You can customize the `model`, `max_tokens`, and other parameters based on your requirements.
 
