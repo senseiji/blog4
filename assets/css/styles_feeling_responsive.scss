@@ -49,25 +49,70 @@ sitemap:
 @import "11_syntax-highlighting.scss";
 
 
+// pre {
+//   position: relative;
+//   padding: 1em;
+//   border: 1px solid #ccc;
+//   border-radius: 4px;
+//   background-color: #f8f8f8;
+//   overflow-x: auto;
+// }
+
+// .copy-button {
+//   position: absolute;
+//   top: 0;
+//   right: 0;
+//   padding: 0.2em 0.5em;
+//   font-size: 0.8em;
+//   color: #666;
+//   background-color: #e0e0e0;
+//   border: none;
+//   border-radius: 0 4px 0 0;
+//   cursor: pointer;
+// }
+
+// .copy-button:hover {
+//   background-color: #d0d0d0;
+// }
+
 pre {
   position: relative;
   padding: 1em;
   border: 1px solid #ccc;
   border-radius: 4px;
-  background-color: #f8f8f8;
+  background-color: #000;
   overflow-x: auto;
+  margin-top: 1em;
+}
+
+.code-bar {
+  position: absolute;
+  top: -1.5em;
+  left: 0;
+  right: 0;
+  height: 1.5em;
+  background-color: #e0e0e0;
+}
+
+.code-label {
+  position: absolute;
+  top: 0;
+  left: 0.5em;
+  padding: 0.2em 0.5em;
+  font-size: 0.8em;
+  color: #666;
 }
 
 .copy-button {
   position: absolute;
   top: 0;
-  right: 0;
+  right: 0.5em;
   padding: 0.2em 0.5em;
   font-size: 0.8em;
   color: #666;
   background-color: #e0e0e0;
   border: none;
-  border-radius: 0 4px 0 0;
+  border-radius: 4px 4px 0 0;
   cursor: pointer;
 }
 

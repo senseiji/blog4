@@ -45,7 +45,7 @@ layout: compress
 
 
 
-<script>
+<!-- <script>
 	document.addEventListener("DOMContentLoaded", function () {
 	  var preElements = document.querySelectorAll("pre");
 	  preElements.forEach(function (preElement) {
@@ -55,15 +55,38 @@ layout: compress
 		preElement.appendChild(button);
 	  });
 	});
+  </script> -->
+  
+  <script>
+	document.addEventListener("DOMContentLoaded", function () {
+	  var preElements = document.querySelectorAll("pre");
+	  preElements.forEach(function (preElement) {
+		var codeElement = preElement.querySelector("code");
+		var lang = codeElement.className.replace("language-", "");
+  
+		var codeBar = document.createElement("div");
+		codeBar.className = "code-bar";
+		preElement.appendChild(codeBar);
+  
+		var label = document.createElement("span");
+		label.className = "code-label";
+		label.textContent = lang;
+		codeBar.appendChild(label);
+  
+		var button = document.createElement("button");
+		button.className = "copy-button";
+		button.textContent = "Copy";
+		codeBar.appendChild(button);
+	  });
+	});
   </script>
   
 
-
-<script>
+<!-- <script>
 	new ClipboardJS('.copy-button', {
 	  target: function(trigger) {
 		return trigger.parentElement;
 	  }
 	});
-</script>
+</script> -->
   
