@@ -22,7 +22,7 @@ widget3:
   title: "Self Learn Tutorials"
   url: /tutorials/'
   image: sanket-mishra-r11DL_vyJ7I-unsplash.jpg
-  text: 'Nothing like trying out the work yoursalf'
+  text: 'Nothing like trying out the work yourself'
 #
 # Use the call for action to show a button on the frontpage
 #
