@@ -11,10 +11,10 @@
   <div class="row">
     <div class="small-12 columns b60">
       <div itemprop="name">
-        {% if page.date %}
-        <time class="icon-calendar pr20" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished"> {{ page.date | date: "%Y-%m-%d" }}</time>
+        {% if post.date %}
+        <time class="icon-calendar pr20" datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished"> {{ post.date | date: "%Y-%m-%d" }}</time>
         {% endif %}	
-        {% if page.categories != empty %}<span class="icon-archive pr20"> {{ page.categories | join: ' · ' | upcase }}</span> {% endif %}
+        {% if post.categories != empty %}<span class="icon-archive pr20"> {{ post.categories | join: ' · ' | upcase }}</span> {% endif %}
       </div>
       <h2><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
       <p>
