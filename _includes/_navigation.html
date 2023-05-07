@@ -25,6 +25,11 @@
 
 {% endcomment %}
       <ul class="left">
+        <li>
+          <a class="navbar-brand" href="#">
+            <img src="{{ domain }}{{ _baseurl }}/images/MLA-logo.png" alt="..." height="36">
+          </a>
+        </li>
         {% for link in site.data.navigation %}
 
               {% if link.url contains 'http' %}
