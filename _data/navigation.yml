@@ -3,11 +3,11 @@
   side: left
 
 - title: Courses
-  url: "/getting-started/"
+  url: "/courses/"
   side: right
 
 - title: "Schedule"
-  url: "/headers/"
+  url: "/schedule/"
   side: right
   
 
