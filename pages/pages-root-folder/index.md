@@ -45,7 +45,6 @@ permalink: /index.html
 homepage: true
 ---
 
-Welcome to the world of Machine Learning Mastery, the ultimate teaching website dedicated to empowering learners like you to dive deep into the fascinating realms of machine learning and deep learning. In today's fast-paced, data-driven world, these powerful technologies are revolutionizing industries and transforming the way we understand and interact with our environment.
 
 <div id="videoModal" class="reveal-modal large" data-reveal="">
   <div class="flex-video widescreen vimeo" style="display: block;">
