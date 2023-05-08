@@ -5,7 +5,7 @@ layout: page
 #
 subheadline: "Data Engineering"
 title: "Google Cloud Certification Where To Start From"
-teaser: "Google Cloud Platform (GCP) has recently evolved into a serious contender for one of the best cloud providers globally. Due to the platform’s quick rise to the top, there has been a skill shortage of certified Google Cloud engineers. If you’ve been wondering about a Google Cloud certification – where to start is a fairly common question which we’ll be answering via this article.**How to Get in"
+teaser: "Google Cloud Platform (GCP) has recently evolved into a serious contender for one of the best cloud providers globally. Due to the platform’s quick rise to the top, there has been a skill shortage of certified Google Cloud engineers. If you’ve been wondering about a Google Cloud certification – where to start is a fairly common question which we’ll be answering via this articl"
 categories:
   - Data Engineering
 

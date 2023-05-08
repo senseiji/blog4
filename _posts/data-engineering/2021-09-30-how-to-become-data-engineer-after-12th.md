@@ -5,7 +5,7 @@ layout: page
 #
 subheadline: "Data Engineering"
 title: "How To Become Data Engineer After 12Th"
-teaser: "How to become a Data Engineer After 12th. That’s the question you have in your mind. Not only in India, data engineer’s demand is sharply growing world-wide to meet the demands of the complex world of digital and tech transformation. Data engineers can truly be thought of as one of the pillars of business growth and revenue making in this digital world.Business firms, e-commerce markets, banks"
+teaser: "How to become a Data Engineer After 12th. That’s the question you have in your mind. Not only in India, data engineer’s demand is sharply growing world-wide to meet the demands of the complex world of digital and tech transformation. Data engineers can truly be thought of as one of the pillars of business growth and revenue making in this digital world.Business firms, e-com"
 categories:
   - Data Engineering
 

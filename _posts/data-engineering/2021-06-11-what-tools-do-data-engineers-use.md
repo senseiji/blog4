@@ -5,7 +5,7 @@ layout: page
 #
 subheadline: "Data Engineering"
 title: "What Tools Do Data Engineers Use"
-teaser: "Data has now become the powerhouse of every organization, irrespective of its domains. Thus, this significance has shed new light upon the profession of Data Engineers. Are you wondering who are Data Engineers and **what tools do Data Engineers use?** Well, you’re exactly at the right place. Stay tuned. **Data Engineers design, manage and maintain the information infrastructure.** They are"
+teaser: "Data has now become the powerhouse of every organization, irrespective of its domains. Thus, this significance has shed new light upon the profession of Data Engineers. Are you wondering who are Data Engineers and **what tools do Data Engineers use?** Well, you’re exactly at the right place. Stay tuned. **Data Engineers design, manage and maintain the information infrast"
 categories:
   - Data Engineering
 

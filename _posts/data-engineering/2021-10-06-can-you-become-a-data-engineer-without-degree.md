@@ -5,7 +5,7 @@ layout: page
 #
 subheadline: "Data Engineering"
 title: "Can You Become A Data Engineer Without Degree"
-teaser: "While hearing of data engineering, it may come to the mind that only tech people and engineers having BTech, MTech, BSc and MSc degrees are supposed to choose a data engineering career.But don’t worry. If you are not from engineering and if you have an inclination towards data engineering, you can be one of the good data engineering professionals.Even if you don’t possess a degree, after gr"
+teaser: "While hearing of data engineering, it may come to the mind that only tech people and engineers having BTech, MTech, BSc and MSc degrees are supposed to choose a data engineering career.But don’t worry. If you are not from engineering and if you have an inclination towards data engineering, you can be one of the good data engineering professionals.Even if you don’t posses"
 categories:
   - Data Engineering
 

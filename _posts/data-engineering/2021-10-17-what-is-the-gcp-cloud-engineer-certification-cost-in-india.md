@@ -4,8 +4,8 @@ layout: page
 # Content
 #
 subheadline: "Data Engineering"
-title: "What Is The GCP Cloud Engineer Certification Cost In India"
-teaser: "With the growth of IT in India, cloud computing and engineering has become a good choice for career advancement. Demand for cloud computing engineers is increasing rapidly, hence engineers are getting familiar with cloud computing more than before. According to [a report](https://www.gadgetsnow.com/tech-news/india-may-need-20-lakh-cloud-professionals-by-2025-study/articleshow/85564520.cms), India"
+title: "What Is The Gcp Cloud Engineer Certification Cost In India"
+teaser: "With the growth of IT in India, cloud computing and engineering has become a good choice for career advancement. Demand for cloud computing engineers is increasing rapidly, hence engineers are getting familiar with cloud computing more than before. According to [a report](https://www.gadgetsnow.com/tech-news/india-may-need-20-lakh-cloud-professionals-by-2025-study/articleshow/"
 categories:
   - Data Engineering
 
@@ -20,7 +20,7 @@ image:
 
 ---
 
-# What Is The GCP Cloud Engineer Certification Cost In India
+# What Is The Gcp Cloud Engineer Certification Cost In India
 
 With the growth of IT in India, cloud computing and engineering has become a good choice for career advancement. Demand for cloud computing engineers is increasing rapidly, hence engineers are getting familiar with cloud computing more than before. According to [a report](https://www.gadgetsnow.com/tech-news/india-may-need-20-lakh-cloud-professionals-by-2025-study/articleshow/85564520.cms), India will be in need of 20 lakh cloud professionals by 2025 and probably would get around only 4 to 15 lakh cloud engineers by 2025.
 

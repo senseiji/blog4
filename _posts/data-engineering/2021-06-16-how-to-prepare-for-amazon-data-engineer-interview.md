@@ -5,7 +5,7 @@ layout: page
 #
 subheadline: "Data Engineering"
 title: "How To Prepare For Amazon Data Engineer Interview"
-teaser: "Interviews are the final hurdle that stands between you and your dream job.Each company has its style of interviewing a candidate. While some organizations may select a candidate within one interview round, others might take longer than that.So, in that case, how to prepare for Amazon Data Engineer Interview?When it comes to a tech giant like Amazon, you can expect your skills to be test"
+teaser: "Interviews are the final hurdle that stands between you and your dream job.Each company has its style of interviewing a candidate. While some organizations may select a candidate within one interview round, others might take longer than that.So, in that case, how to prepare for Amazon Data Engineer Interview?When it comes to a tech giant like Amazon, you can expect yo"
 categories:
   - Data Engineering
 

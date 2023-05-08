@@ -5,7 +5,7 @@ layout: page
 #
 subheadline: "Data Engineering"
 title: "How To Learn Google Cloud Platform Fundamentals For Aws Professionals"
-teaser: "Amazon web service (AWS) is the first and leading cloud and on-demand resource-sharing service provider, serving 100+ services from 2006. Google Cloud Platform (GCP) is another competitor in this market and holding the second largest market share. Millions of individuals and companies are using cloud computing and other cloud services from AWS and GCP to minimize costs on resources and infrastruc"
+teaser: "Amazon web service (AWS) is the first and leading cloud and on-demand resource-sharing service provider, serving 100+ services from 2006. Google Cloud Platform (GCP) is another competitor in this market and holding the second largest market share. Millions of individuals and companies are using cloud computing and other cloud services from AWS and GCP to minimize costs on reso"
 categories:
   - Data Engineering
 

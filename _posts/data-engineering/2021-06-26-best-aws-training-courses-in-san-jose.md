@@ -5,7 +5,7 @@ layout: page
 #
 subheadline: "Data Engineering"
 title: "Best Aws Training Courses In San Jose"
-teaser: "For every yearning AWS solution architect AWS certification is an essential to dominate AWS solution, architectural principles and services like EC2, VP, EBS, IAM. To lift up your career to the cloud go through till the end and find the best AWS courses in San Jose to become a master on AWS architecture. Let us share with you the best AWS course in San Jose.**AWS and The Best AWS Course in San"
+teaser: "For every yearning AWS solution architect AWS certification is an essential to dominate AWS solution, architectural principles and services like EC2, VP, EBS, IAM. To lift up your career to the cloud go through till the end and find the best AWS courses in San Jose to become a master on AWS architecture. Let us share with you the best AWS course in San Jose.**AWS and The Be"
 categories:
   - Data Engineering
 

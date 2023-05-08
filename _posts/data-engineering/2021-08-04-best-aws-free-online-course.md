@@ -5,7 +5,7 @@ layout: page
 #
 subheadline: "Data Engineering"
 title: "Best Aws Free Online Course"
-teaser: "Amazon Web Service (AWS) is growing its market rapidly in the IT world. When you hear about cloud computing, the first thing that will come to your mind is the Amazon Web Service (AWS), the leading cloud service provider.Millions of customers and the fast-growing market are creating thousands of opportunities for the IT guys. It’s high time for IT professionals to head toward cloud computing a"
+teaser: "Amazon Web Service (AWS) is growing its market rapidly in the IT world. When you hear about cloud computing, the first thing that will come to your mind is the Amazon Web Service (AWS), the leading cloud service provider.Millions of customers and the fast-growing market are creating thousands of opportunities for the IT guys. It’s high time for IT professionals to head towa"
 categories:
   - Data Engineering
 

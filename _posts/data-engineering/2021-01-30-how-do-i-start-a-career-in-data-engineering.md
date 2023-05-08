@@ -5,7 +5,7 @@ layout: page
 #
 subheadline: "Data Engineering"
 title: "How Do I Start A Career In Data Engineering"
-teaser: "Are you truly excited to work with data and generate meaningful insight from a pile of nothing? Lucky for you – today, there are more open positions for Data Engineers and fewer professionals to fill them in. With that said, we’ll be going in-depth to answer the burning question – “how do I start a career in Data Engineering?”Before hopping on to career-specific advice, let’s introduce the fie"
+teaser: "Are you truly excited to work with data and generate meaningful insight from a pile of nothing? Lucky for you – today, there are more open positions for Data Engineers and fewer professionals to fill them in. With that said, we’ll be going in-depth to answer the burning question – “how do I start a career in Data Engineering?”Before hopping on to career-specific advice, let"
 categories:
   - Data Engineering
 

@@ -5,7 +5,7 @@ layout: page
 #
 subheadline: "Data Engineering"
 title: "Best Way To Prepare For The Aws Cloud Practitioner Certification"
-teaser: "Does cloud computing excite you? Whether you’re looking forward to entering this emerging field of computer sciences or want to jump up the corporate ladder – a certification can certainly be a boost. Here, we’ll take you through our personal experience of the best way to prepare for AWS Cloud Practitioner Certification.**Why should I go for AWS Cloud Practitioner Certification?**------------"
+teaser: "Does cloud computing excite you? Whether you’re looking forward to entering this emerging field of computer sciences or want to jump up the corporate ladder – a certification can certainly be a boost. Here, we’ll take you through our personal experience of the best way to prepare for AWS Cloud Practitioner Certification.**Why should I go for AWS Cloud Practitioner Certifica"
 categories:
   - Data Engineering
 

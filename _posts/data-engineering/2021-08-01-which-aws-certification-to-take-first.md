@@ -5,7 +5,7 @@ layout: page
 #
 subheadline: "Data Engineering"
 title: "Which Aws Certification To Take First"
-teaser: "The modern IT world is heading toward cloud computing, especially Amazon Web Service (AWS). It’s being a challenge for the IT guys to develop their skills with cloud computing that will accelerate their career with similar speed.  If you are serious about your career with AWS, you must know about the AWS certifications. In this article, you will find which AWS certification to take first to advan"
+teaser: "The modern IT world is heading toward cloud computing, especially Amazon Web Service (AWS). It’s being a challenge for the IT guys to develop their skills with cloud computing that will accelerate their career with similar speed.  If you are serious about your career with AWS, you must know about the AWS certifications. In this article, you will find which AWS certification to"
 categories:
   - Data Engineering
 

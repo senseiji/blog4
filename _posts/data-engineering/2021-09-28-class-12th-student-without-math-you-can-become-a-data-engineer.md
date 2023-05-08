@@ -5,7 +5,7 @@ layout: page
 #
 subheadline: "Data Engineering"
 title: "Class 12Th Student Without Math You Can Become A Data Engineer"
-teaser: "Data engineering is becoming a popular and tempting profession among the youngsters in the IT field. Data engineering is becoming essential for business growth considering the changing nature of the businesses. Anyone must think that only a science student with expertise in mathematics is eligible to become a data engineer. But it’s a misconception. If you think being a 12th student commerce w"
+teaser: "Data engineering is becoming a popular and tempting profession among the youngsters in the IT field. Data engineering is becoming essential for business growth considering the changing nature of the businesses. Anyone must think that only a science student with expertise in mathematics is eligible to become a data engineer. But it’s a misconception. If you think being a 12t"
 categories:
   - Data Engineering
 

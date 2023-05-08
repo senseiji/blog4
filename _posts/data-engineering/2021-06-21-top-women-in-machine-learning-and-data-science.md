@@ -5,7 +5,7 @@ layout: page
 #
 subheadline: "Data Engineering"
 title: "Top Women In Machine Learning And Data Science"
-teaser: "Ever wondered how many roles in the computing sector do women hold? What’s the percentage of women in Machine Learning and Data Science?Unfortunately, not many! According to the IBM tech reports, women make up 20% of the total tech roles across the globe.The Data Sector has seen an unprecedented boom in the last few years. Data Science, Machine Learning, and Data Engineering are amongst the"
+teaser: "Ever wondered how many roles in the computing sector do women hold? What’s the percentage of women in Machine Learning and Data Science?Unfortunately, not many! According to the IBM tech reports, women make up 20% of the total tech roles across the globe.The Data Sector has seen an unprecedented boom in the last few years. Data Science, Machine Learning, and Data Enginee"
 categories:
   - Data Engineering
 

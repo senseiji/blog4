@@ -5,7 +5,7 @@ layout: page
 #
 subheadline: "Data Engineering"
 title: "Data Engineering Jobs During Covid 19 Pandemic"
-teaser: "Are you wondering about the Data Engineering Jobs during COVID-19?You’re at the right place. This article will help you understand the Covid-19 impact on the Data Engineering job market.Remember the work-life before things went downhill in 2020?Probably not.The old way of living seems like a blur when you look back at it.The Covid-19 pandemic has brought the economies of the world"
+teaser: "Are you wondering about the Data Engineering Jobs during COVID-19?You’re at the right place. This article will help you understand the Covid-19 impact on the Data Engineering job market.Remember the work-life before things went downhill in 2020?Probably not.The old way of living seems like a blur when you look back at it.The Covid-19 pandemic has brought the eco"
 categories:
   - Data Engineering
 

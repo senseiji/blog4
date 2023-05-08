@@ -5,7 +5,7 @@ layout: page
 #
 subheadline: "Data Engineering"
 title: "How To Switch Career To Data Engineering"
-teaser: "Are you thinking about **switching your career to Data Engineering?** Are you worried about **‘How to Switch Career to Data Engineering?’**Data Engineering is a field that focuses on designing, developing, and maintaining the infrastructure for data. They build the data architecture for the data scientist to process the data and build models. This article is just what you’ve been waiting fo"
+teaser: "Are you thinking about **switching your career to Data Engineering?** Are you worried about **‘How to Switch Career to Data Engineering?’**Data Engineering is a field that focuses on designing, developing, and maintaining the infrastructure for data. They build the data architecture for the data scientist to process the data and build models. This article is just what yo"
 categories:
   - Data Engineering
 

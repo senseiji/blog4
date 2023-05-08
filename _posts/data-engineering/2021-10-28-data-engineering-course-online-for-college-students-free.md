@@ -5,7 +5,7 @@ layout: page
 #
 subheadline: "Data Engineering"
 title: "Data Engineering Course Online For College Students Free"
-teaser: "The demand for data engineering has been growing sharply all over the world over the last few years. Due to the growth of social media, and the e-commerce market, a huge amount of data is being produced every day. Organizations need these raw data to be processed for their business growth and that’s why they need data engineers.People from various other professions are also getting swayed into"
+teaser: "The demand for data engineering has been growing sharply all over the world over the last few years. Due to the growth of social media, and the e-commerce market, a huge amount of data is being produced every day. Organizations need these raw data to be processed for their business growth and that’s why they need data engineers.People from various other professions are also"
 categories:
   - Data Engineering
 

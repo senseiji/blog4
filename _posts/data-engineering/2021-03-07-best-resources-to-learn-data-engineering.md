@@ -5,7 +5,7 @@ layout: page
 #
 subheadline: "Data Engineering"
 title: "Best Resources To Learn Data Engineering"
-teaser: "Do you find yourself stuck in the masses of information available for Data Engineers on the wide web? Fret not, you’re definitely not alone in this community as there truly is a lot going on. Today, we’ll be covering some of the **best resources to learn Data Engineering** and get started the right way.**The KCE Process of Becoming a Data Engineer**--------------------------------------------"
+teaser: "Do you find yourself stuck in the masses of information available for Data Engineers on the wide web? Fret not, you’re definitely not alone in this community as there truly is a lot going on. Today, we’ll be covering some of the **best resources to learn Data Engineering** and get started the right way.**The KCE Process of Becoming a Data Engineer**------------------------"
 categories:
   - Data Engineering
 
