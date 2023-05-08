@@ -10,4 +10,7 @@ permalink           : "/schedule/"
 ---
 
 
-# Coming Soon to a location near you......
+# Schedule of upcoming classes
+
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRPuK7GkVZgKVt9-46yk3oxuNBi5yaufjiKG0RIUeVvocCZ-A-sJedUez7cx8qiHYeJxT8p8mSUCxW_/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
