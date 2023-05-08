@@ -20,6 +20,8 @@ image:
 
 ---
 
+# Machine Learning With Google Cloud Platform Jobs 2020
+
 20th Century Fox, eBay, Bloomberg, Target, Pizza Hut – these are not just the names of some of the top companies. These are some of the top companies that have built their internal Machine Learning (ML) practice on the Google Cloud Platform. Therefore, if you are a practitioner of machine learning with [Google cloud](https://en.m.wikipedia.org/wiki/Google_Cloud_Platform) or you are someone looking to break into this field to give your career a new dimension, be rest assured. This discussion on Machine Learning with Google Cloud Platform will directionally calibrate you towards your next steps in this field. Also, if you are looking to start off with Machine Learning with Google Cloud Platform, get started with live classes from the [Machine Learning Academy](https://mlacademy.io////register).
 
 
