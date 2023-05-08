@@ -5,7 +5,7 @@ layout: page
 #
 subheadline: "Data Engineering"
 title: "Can I Get A Job With Aws Certification Without Experience"
-teaser: "If you’ve recently graduated and often peek at job descriptions to see if AWS certified engineers are in-demand or not – that’s quite normal. As a graduate, it might be possible that you don’t have the experience to check an employer’s list from the"
+teaser: "If you’ve recently graduated and often peek at job descriptions to see if AWS certified engineers are in-demand or not – that’s quite normal. As a graduate, it might be possible that you don’t have the experience to check an employer’s list from the get-go. So we’ve often received the question – **can I get a job with AWS certification without experience?**Let’s talk about it next.**Can I G"
 categories:
   - Data Engineering
 
@@ -19,6 +19,8 @@ image:
     homepage: can-i-get-a-job-with-aws-certification-without-experience-thumbnail.jpg
 
 ---
+
+# Can I Get A Job With Aws Certification Without Experience
 
 If you’ve recently graduated and often peek at job descriptions to see if AWS certified engineers are in-demand or not – that’s quite normal. As a graduate, it might be possible that you don’t have the experience to check an employer’s list from the get-go. So we’ve often received the question – **can I get a job with AWS certification without experience?**
 

@@ -5,7 +5,7 @@ layout: page
 #
 subheadline: "Data Engineering"
 title: "How To Get Into Faang Companies As A Fresher"
-teaser: "The Big 5 of Tech (Facebook, Apple, Amazon, Netflix, Google) or FAANG as they call it hire the best of the software engineers, data engineers, cyber security specialists, system and solution architects, network engineers every year from different co"
+teaser: "The Big 5 of Tech (Facebook, Apple, Amazon, Netflix, Google) or FAANG as they call it hire the best of the software engineers, data engineers, cyber security specialists, system and solution architects, network engineers every year from different countries.You must be dreaming to be one of them after your graduation. But the reality is quite harder than dreams. To qualify for the job, get sele"
 categories:
   - Data Engineering
 
@@ -19,6 +19,8 @@ image:
     homepage: how-to-get-into-faang-companies-as-a-fresher-thumbnail.jpg
 
 ---
+
+# How To Get Into Faang Companies As A Fresher
 
 The Big 5 of Tech (Facebook, Apple, Amazon, Netflix, Google) or FAANG as they call it hire the best of the software engineers, data engineers, cyber security specialists, system and solution architects, network engineers every year from different countries.
 

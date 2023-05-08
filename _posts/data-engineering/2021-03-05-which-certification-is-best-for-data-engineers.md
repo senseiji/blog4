@@ -5,7 +5,7 @@ layout: page
 #
 subheadline: "Data Engineering"
 title: "Which Certification Is Best For Data Engineers"
-teaser: "Data Engineers are yet to fulfill the talent shortage in the market right now. As this gap increases, more and more engineers will be filling in technical roles. If you’re one such individual looking forward to an edge in the market; read ahead as w"
+teaser: "Data Engineers are yet to fulfill the talent shortage in the market right now. As this gap increases, more and more engineers will be filling in technical roles. If you’re one such individual looking forward to an edge in the market; read ahead as we explore **which certification is best for Data Engineers** to pursue today!**Do Data Engineers Need a Certification?**--------------------------"
 categories:
   - Data Engineering
 
@@ -19,6 +19,8 @@ image:
     homepage: which-certification-is-best-for-data-engineers-thumbnail.jpg
 
 ---
+
+# Which Certification Is Best For Data Engineers
 
 Data Engineers are yet to fulfill the talent shortage in the market right now. As this gap increases, more and more engineers will be filling in technical roles. If you’re one such individual looking forward to an edge in the market; read ahead as we explore **which certification is best for Data Engineers** to pursue today!
 

@@ -5,7 +5,7 @@ layout: page
 #
 subheadline: "Data Engineering"
 title: "How To Become A Data Engineer In India"
-teaser: "Data engineering is a broad field that includes designing, building platforms for collecting, storing, querying, analyzing, and maintaining data at scale. A data engineer is one who works for building and maintaining that platform and does other ope"
+teaser: "Data engineering is a broad field that includes designing, building platforms for collecting, storing, querying, analyzing, and maintaining data at scale. A data engineer is one who works for building and maintaining that platform and does other operations and analysis on data. And, we know that you want to know **how to become a data engineer in India**.A rapid growth of data engineers is bei"
 categories:
   - Data Engineering
 
@@ -19,6 +19,8 @@ image:
     homepage: how-to-become-a-data-engineer-in-india-thumbnail.jpg
 
 ---
+
+# How To Become A Data Engineer In India
 
 Data engineering is a broad field that includes designing, building platforms for collecting, storing, querying, analyzing, and maintaining data at scale. A data engineer is one who works for building and maintaining that platform and does other operations and analysis on data. And, we know that you want to know **how to become a data engineer in India**.
 

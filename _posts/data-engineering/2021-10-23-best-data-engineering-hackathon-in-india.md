@@ -5,7 +5,7 @@ layout: page
 #
 subheadline: "Data Engineering"
 title: "Best Data Engineering Hackathon In India"
-teaser: "Data being the new fuel with future looking promising, the field has plenty of career opportunities to offer in data engineering, machine learning and data analytics. Accessibility to new age courses has significantly increased.With competitive c"
+teaser: "Data being the new fuel with future looking promising, the field has plenty of career opportunities to offer in data engineering, machine learning and data analytics. Accessibility to new age courses has significantly increased.With competitive coding and hackathons getting more and more popular, you can now use them to fulfill your data engineering dream.But how will this happen? How can y"
 categories:
   - Data Engineering
 
@@ -19,6 +19,8 @@ image:
     homepage: best-data-engineering-hackathon-in-india-thumbnail.jpg
 
 ---
+
+# Best Data Engineering Hackathon In India
 
 Data being the new fuel with future looking promising, the field has plenty of career opportunities to offer in data engineering, machine learning and data analytics. Accessibility to new age courses has significantly increased.
 

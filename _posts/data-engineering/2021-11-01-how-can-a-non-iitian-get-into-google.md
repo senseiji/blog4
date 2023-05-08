@@ -5,7 +5,7 @@ layout: page
 #
 subheadline: "Data Engineering"
 title: "How Can A Non Iitian Get Into Google"
-teaser: "For students of premium institutes like IITs, job opportunities are diverse and plenty. Most of these opportunities come from campus placements. This is because such institutes are able to attract corporate companies due to their reputed brand im"
+teaser: "For students of premium institutes like IITs, job opportunities are diverse and plenty. Most of these opportunities come from campus placements. This is because such institutes are able to attract corporate companies due to their reputed brand image. However, such is not the case with other colleges of state and private institutions. Then what about others? **Do only IITians get good jobs? How"
 categories:
   - Data Engineering
 

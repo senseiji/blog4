@@ -5,7 +5,7 @@ layout: page
 #
 subheadline: "Data Engineering"
 title: "Kce Process"
-teaser: "ML Academy has been teaching hundreds of students Data Engineering on Google Cloud, AWS, and Azure. Many of these people have successfully completed their certification exams and also got satisfying jobs in the industry. We have a very high success"
+teaser: "ML Academy has been teaching hundreds of students Data Engineering on Google Cloud, AWS, and Azure. Many of these people have successfully completed their certification exams and also got satisfying jobs in the industry. We have a very high success rate of the participants who complete our process, some of the quotes are given below. Based on our experience and our philosophy we have developed th"
 categories:
   - Data Engineering
 
@@ -19,6 +19,8 @@ image:
     homepage: kce-process-thumbnail.jpg
 
 ---
+
+# Kce Process
 
 ML Academy has been teaching hundreds of students Data Engineering on Google Cloud, AWS, and Azure. Many of these people have successfully completed their certification exams and also got satisfying jobs in the industry. We have a very high success rate of the participants who complete our process, some of the quotes are given below. Based on our experience and our philosophy we have developed the KCE Methodology® for getting jobs in Data Engineering. KCE Methodology assumes a strong foundation in Programming and SQL skills. Building on this foundation we emphasize on **K**nowledge, **C**ertification, and **E**xpertise (KCE).  Optionally for some, we also conduct Interview Prep sessions.
 
@@ -93,6 +95,6 @@ All in all – the best way to learn Data Engineering is by following  the KCE 
 
 
 We recommend signing up for in-person or online classes where you’re in direct contact with your mentor. Learn actively, engage with colleagues, think of ideas, and share those ideas with people to ensure your growth and make it fun to go through this phase.   
-Reach out to [[email protected]](/cdn-cgi/l/email-protection#264f484049664b4a474542434b5f084f49), or set up a call by choosing a 10 minute [book-a-meeting](https://mlacademy.na.chilipiper.com/book/me/venkatesh-tadinada?type=my-meeting) with one of our instructors.
+Reach out to [[email protected]](/cdn-cgi/l/email-protection#5d34333b321d30313c3e39383024733432), or set up a call by choosing a 10 minute [book-a-meeting](https://mlacademy.na.chilipiper.com/book/me/venkatesh-tadinada?type=my-meeting) with one of our instructors.
 
 

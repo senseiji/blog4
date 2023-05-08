@@ -5,7 +5,7 @@ layout: page
 #
 subheadline: "Data Engineering"
 title: "Data Engineering Vs Machine Learning"
-teaser: "Ever since the importance of data was recognized in our society, several important roles came into the limelight. Today, these job roles can be classified into tens of different roles. Although they’re all worthy of their own discussions – today we"
+teaser: "Ever since the importance of data was recognized in our society, several important roles came into the limelight. Today, these job roles can be classified into tens of different roles. Although they’re all worthy of their own discussions – today we discuss **Data Engineering vs. Machine Learning.**Is there a big difference in the two fields? Do the two career paths intertwine at one point? Let"
 categories:
   - Data Engineering
 
@@ -19,6 +19,8 @@ image:
     homepage: data-engineering-vs-machine-learning-thumbnail.jpg
 
 ---
+
+# Data Engineering Vs Machine Learning
 
 Ever since the importance of data was recognized in our society, several important roles came into the limelight. Today, these job roles can be classified into tens of different roles. Although they’re all worthy of their own discussions – today we discuss **Data Engineering vs. Machine Learning.**
 

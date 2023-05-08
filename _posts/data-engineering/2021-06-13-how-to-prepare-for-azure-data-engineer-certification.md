@@ -5,7 +5,7 @@ layout: page
 #
 subheadline: "Data Engineering"
 title: "How To Prepare For Azure Data Engineer Certification"
-teaser: "How to prepare for Azure Data Engineer certification? Which Azure certification is best for Data Engineers? Keep reading this article, and we will walk you through the entire process.What’s the first thing that crosses your mind when you come acr"
+teaser: "How to prepare for Azure Data Engineer certification? Which Azure certification is best for Data Engineers? Keep reading this article, and we will walk you through the entire process.What’s the first thing that crosses your mind when you come across the word Data Engineering?An Engineer who plays with data? Or someone who builds an Architecture for data to reside?Well, if yes, you aren’t"
 categories:
   - Data Engineering
 
@@ -19,6 +19,8 @@ image:
     homepage: how-to-prepare-for-azure-data-engineer-certification-thumbnail.jpg
 
 ---
+
+# How To Prepare For Azure Data Engineer Certification
 
 How to prepare for Azure Data Engineer certification? Which Azure certification is best for Data Engineers? Keep reading this article, and we will walk you through the entire process.
 

@@ -5,7 +5,7 @@ layout: page
 #
 subheadline: "Data Engineering"
 title: "Best Machine Learning Hackathon In India"
-teaser: "A special application of artificial intelligence is being practiced to provide machines the ability to automatically learn from experience and improve themselves without being explicitly programmed, known as machine learning (ML). Its main focus is"
+teaser: "A special application of artificial intelligence is being practiced to provide machines the ability to automatically learn from experience and improve themselves without being explicitly programmed, known as machine learning (ML). Its main focus is the development of the program to access the data as well as learn from the huge amount of data. Machine learning hackathon is a time constrained comp"
 categories:
   - Data Engineering
 
@@ -19,6 +19,8 @@ image:
     homepage: best-machine-learning-hackathon-in-india-thumbnail.jpg
 
 ---
+
+# Best Machine Learning Hackathon In India
 
 A special application of artificial intelligence is being practiced to provide machines the ability to automatically learn from experience and improve themselves without being explicitly programmed, known as machine learning (ML). Its main focus is the development of the program to access the data as well as learn from the huge amount of data. Machine learning hackathon is a time constrained competition to solve problems on machine learning and data science.
 

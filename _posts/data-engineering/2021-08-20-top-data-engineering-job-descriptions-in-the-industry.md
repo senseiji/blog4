@@ -5,7 +5,7 @@ layout: page
 #
 subheadline: "Data Engineering"
 title: "Top Data Engineering Job Descriptions In The Industry"
-teaser: "The world. today, is the world of data. Data is growing all around us rapidly which concerns the necessity of storing, transforming, transportation of these data.The demand of data engineers is growing rapidly to make these large amounts of data"
+teaser: "The world. today, is the world of data. Data is growing all around us rapidly which concerns the necessity of storing, transforming, transportation of these data.The demand of data engineers is growing rapidly to make these large amounts of data usable, and store them securely. To make the raw data accessible as well as usable, data engineers create analyze model and present them in a comprehe"
 categories:
   - Data Engineering
 
@@ -19,6 +19,8 @@ image:
     homepage: top-data-engineering-job-descriptions-in-the-industry-thumbnail.jpg
 
 ---
+
+# Top Data Engineering Job Descriptions In The Industry
 
 The world. today, is the world of data. Data is growing all around us rapidly which concerns the necessity of storing, transforming, transportation of these data.
 

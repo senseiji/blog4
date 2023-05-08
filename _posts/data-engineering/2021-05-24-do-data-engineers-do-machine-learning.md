@@ -5,7 +5,7 @@ layout: page
 #
 subheadline: "Data Engineering"
 title: "Do Data Engineers Do Machine Learning"
-teaser: "Do Data Engineers do Machine Learning as well? Let’s find out. Data Engineering is the gush of the hour. Tons of companies are in search of qualified Data Engineers that can derive value for their business. Being a competent Data Engineer is no j"
+teaser: "Do Data Engineers do Machine Learning as well? Let’s find out. Data Engineering is the gush of the hour. Tons of companies are in search of qualified Data Engineers that can derive value for their business. Being a competent Data Engineer is no joke. It requires you to develop many skills, and Machine Learning is indeed one of them. Keep reading, and we’ll know up to what extent do data eng"
 categories:
   - Data Engineering
 
@@ -19,6 +19,8 @@ image:
     homepage: do-data-engineers-do-machine-learning-thumbnail.jpg
 
 ---
+
+# Do Data Engineers Do Machine Learning
 
 Do Data Engineers do Machine Learning as well? Let’s find out. 
 

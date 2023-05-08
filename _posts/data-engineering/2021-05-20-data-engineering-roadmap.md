@@ -5,7 +5,7 @@ layout: page
 #
 subheadline: "Data Engineering"
 title: "Data Engineering Roadmap"
-teaser: "Data Engineering is the new trending profession. Due to its nascency, industry leaders are developing many ways to build the skills for Data Engineering which may seem overwhelming to you. We came across this interesting roadmap on [Kaggle](https://"
+teaser: "Data Engineering is the new trending profession. Due to its nascency, industry leaders are developing many ways to build the skills for Data Engineering which may seem overwhelming to you. We came across this interesting roadmap on [Kaggle](https://www.kaggle.com/learn-forum/186870) today and thought that we should share it with you. We’ve compiled our take on the Data Engineering Roadmap with en"
 categories:
   - Data Engineering
 
@@ -19,6 +19,8 @@ image:
     homepage: data-engineering-roadmap-thumbnail.jpg
 
 ---
+
+# Data Engineering Roadmap
 
 Data Engineering is the new trending profession. Due to its nascency, industry leaders are developing many ways to build the skills for Data Engineering which may seem overwhelming to you. We came across this interesting roadmap on [Kaggle](https://www.kaggle.com/learn-forum/186870) today and thought that we should share it with you. We’ve compiled our take on the Data Engineering Roadmap with end-to-end information about how you can kick start your careers in Data Engineering!
 
