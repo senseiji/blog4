@@ -1,5 +1,7 @@
 ---
 layout: page
+comments: true
+
 #
 # Content
 #
