@@ -130,7 +130,7 @@ About the Author
 
 
 
-![Aditi Chourey](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20768%201024'%3E%3C/svg%3E)
+![alt text](/images/how-can-a-non-iitian-get-into-google-3.png)
 
 
 **Aditi Chourey** is an MBA from the Indian Institute of Management (IIM), Shillong. A mechanical engineer by qualification, a gold medalist in International English Olympiad, she is passionate about writing and has co authored a nationally released anthology. She loves to explore imagery poetry and experiment with conventional forms of writing in Hindi, English, Urdu. She is an active social worker having worked with NGOs for child welfare and holds an NSS B certificate. In her leisure time, she is an ardent reader of historical fiction and loves to explore art and aesthetics. You can connect with her on LinkedIn.
