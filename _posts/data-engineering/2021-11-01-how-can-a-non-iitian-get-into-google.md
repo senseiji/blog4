@@ -1,10 +1,11 @@
 ---
 layout: page
+comments: true
 #
 # Content
 #
 subheadline: "Data Engineering"
-title: "How Can A Non Iitian Get Into Google"
+title: "How Can A Non IITian Get Into Google"
 teaser: "For students of premium institutes like IITs, job opportunities are diverse and plenty. Most of these opportunities come from campus placements. This is because such institutes are able to attract corporate companies due to their reputed brand image. However, such is not the case with other colleges of state and private institutions. Then what about others? **Do only IITian"
 categories:
   - Data Engineering
@@ -20,7 +21,7 @@ image:
 
 ---
 
-# How Can A Non Iitian Get Into Google
+# How Can A Non IITian Get Into Google
 
 For students of premium institutes like IITs, job opportunities are diverse and plenty. Most of these opportunities come from campus placements. 
 
@@ -57,7 +58,7 @@ So, I am sure you must have already got some insight to your question how can a 
 This exemplifies that dream companies look for passionate people. You have to put in the hard work and required rigour in the right direction. You will also need to upskill yourself at par with job profile. How to go ahead with that? We have got it covered for you.
 
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20302%20218'%3E%3C/svg%3E)
+![alt text](/images/rajeshwar-bachu-K4txLik7pnY-unsplash.jpg)
 
 
 **Ways to get into Google**
@@ -96,7 +97,8 @@ For a data engineering job, SQL, machine learning and cloud computing are must h
 ML Adacemy offers courses on Machine Learning and Data Engineering on Google Cloud, Online data engineering on AWS, Google Cloud data engineering, and other data engineering skills. They are taught by expert professionals through live online classes, bringing in KCE methodology to make the training more effective. They will help you build strong foundation for clearing competitive tests and stand out in the interview process of dream companies. You can learn more about **[KCE process](https://mlacademy.io/kce-process/).**
 
 
-![KCE Framework](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20547'%3E%3C/svg%3E)
+![alt text](/images/how-can-a-non-iitian-get-into-google-2.png)
+
 KCE refers to Knowledge, Certification and Expertise. 
 
 
