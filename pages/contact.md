@@ -8,4 +8,13 @@ header:
    image_fullwidth  : "rafael-garcin-sqZ4GeyYGx8-unsplash.jpg"
 permalink           : "/contact/"
 ---
-If you need a fabulous contact form for your website, I suggest you use the free version of [Wufoo](http://www.wufoo.com/)
+
+
+
+# Venkatesh Tadinada - Chief Instructor
+
+![alt text](/images/venkat.webp)
+
+# Peeya Iwagoshi - Co - Instructor
+
+![alt text](/images/peeya.webp)
