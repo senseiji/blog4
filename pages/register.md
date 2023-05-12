@@ -14,13 +14,11 @@ permalink           : "/register/"
     };
 
     window.EBWidgets.createWidget({
-        // Required
         widgetType: 'checkout',
         eventId: '635020331907',
         iframeContainerId: 'eventbrite-widget-container-635020331907',
 
-        // Optional
-        iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
-        onOrderComplete: exampleCallback  // Method called when an order has successfully completed
+        iframeContainerHeight: 425,  
+        onOrderComplete: exampleCallback  
     });
 </script>
