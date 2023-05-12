@@ -12,6 +12,46 @@ permalink           : "/courses/"
 
 Embark on an unforgettable journey with us, and get ready to unleash your inner machine learning and deep learning expert. Welcome to the Machine Learning Mastery community, where your future is crafted by your own hands!
 
+## Introduction to ChatGPT and OpenAI
+
+#### Next Class : May 20th 9:30 AM PST
+#### Duration   : 2 hours
+#### Cost       : Free
+#### [Click here to register](https://www.mlacademy.io/register)
+
+
+### Overview of the course
+By the end of this course, you will not only have a solid understanding of ChatGPT and its API, but also hands-on experience in working with it in Python, specifically within a Jupyter notebook environment. You will have the skills and knowledge necessary to begin building your own applications using the ChatGPT-API. We look forward to your active participation and are excited to see what you will build!
+
+### Course Agenda: Introduction to ChatGPT and ChatGPT-API with Python
+
+
+**Module 1**: Introduction to ChatGPT
+1. Overview of ChatGPT
+1. Understanding the model architecture
+1. Use cases and applications of ChatGPT
+1. Basics of Python for ChatGPT
+
+**Module 2**: Setting up the environment
+1. Sending requests to the ChatGPT-API
+1. Processing and understanding the responses
+1. Building Basic Applications with ChatGPT-API
+
+**Module 3**: Basics of APIs: What they are and how they work
+1. Deep dive into the ChatGPT-API: Endpoints, request/response model, rate limits
+1. Deep dive into the ChatGPT-API: Endpoints, request/response model, rate limits
+1. Deep dive into the ChatGPT-API: Endpoints, request/response model, rate limits
+1. Idea brainstorming: Possible applications for ChatGPT
+1. Step-by-step guide to building a basic application using ChatGPT-API
+1. Debugging and error handling
+1. Best Practices and Tips
+
+**Module 4**: Overview of best practices when using ChatGPT and its API
+1. Tips for efficient and responsible usage
+1. Open forum for questions and discussions
+1. Next steps and additional resources
+
+
 
 ## Introduction to Machine Learning with Scikit-Learn:
 
