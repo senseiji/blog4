@@ -17,7 +17,8 @@ Embark on an unforgettable journey with us, and get ready to unleash your inner 
 #### Next Class : May 20th 9:30 AM PST
 #### Duration   : 2 hours
 #### Cost       : Free
-#### [Click here to register](https://www.mlacademy.io/register)
+
+<a href="https://www.mlacademy.io/register" style="color: red;">Click here to register</a>
 
 
 ### Overview of the course
