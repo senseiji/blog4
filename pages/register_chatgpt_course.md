@@ -4,7 +4,7 @@ title               : "register_chatgpt_course"
 permalink           : "/register_chatgpt_course/"
 ---
 
-<div id="eventbrite-widget-container-638880638187"></div>
+<div id="eventbrite-widget-container-638894128537"></div>
 
 <script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
 
@@ -15,8 +15,8 @@ permalink           : "/register_chatgpt_course/"
 
     window.EBWidgets.createWidget({
         widgetType: 'checkout',
-        eventId: '638880638187',
-        iframeContainerId: 'eventbrite-widget-container-638880638187',
+        eventId: '638894128537',
+        iframeContainerId: 'eventbrite-widget-container-638894128537',
 
         iframeContainerHeight: 425,  
         onOrderComplete: exampleCallback  
