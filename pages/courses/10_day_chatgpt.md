@@ -18,7 +18,7 @@ Join us for an exciting and comprehensive course on harnessing the incredible po
 #### Duration   : 6:30 PM to 8:30 PM 
 #### Cost       : USD 499 
 
-<a href="https://www.mlacademy.io/register_chatgpt" style="color: red;">Click here to register</a>
+<a href="https://www.mlacademy.io/register_chatgpt_course" style="color: red;">Click here to register</a>
 
 
 ### Overview of the course
