@@ -27,6 +27,7 @@ Our expert-led course offers step-by-step instructions on how to interact with t
 By the end of this course, you'll be confidently building, testing, and deploying AI applications using ChatGPT and Python. Embark on this transformative learning journey and discover how to revolutionize your projects with the power of Conversational AI!
 
 ### Introduction to ChatGPT and ChatGPT-API with Python
+### 
 
 **Module 1**: Introduction to ChatGPT
 - What is ChatGPT and how does it work?
