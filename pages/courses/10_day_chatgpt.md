@@ -14,7 +14,7 @@ Join us for an exciting and comprehensive course on harnessing the incredible po
 
 ## Build Application with ChatGPT
 
-#### Next Class : Tuesdaays and Thursdays for 10 days from  May 23rd  
+#### Next Class : Tuesdays and Thursdays for 10 days from  May 23rd  
 #### Duration   : 6:30 PM to 8:30 PM 
 #### Cost       : USD 499 
 
