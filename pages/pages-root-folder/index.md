@@ -20,7 +20,7 @@ widget2:
 
 widget3:
   title: "Self Learn Tutorials"
-  url: /courses/'
+  url: '/courses/'
   image: sanket-mishra-r11DL_vyJ7I-unsplash.jpg
   text: 'Nothing like trying out the work yourself'
 #
