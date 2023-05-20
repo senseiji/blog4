@@ -9,7 +9,7 @@ header:
   image_fullwidth: rafael-garcin-sqZ4GeyYGx8-unsplash.jpg
 widget1:
   title: "Hands-On Classes"
-  url: '/Courses/'
+  url: '/courses/'
   image: jason-goodman-Oalh2MojUuk-unsplash.jpg
   text: 'We deliver, in person and online hands-on classes. This is where we teach participants the joy of handling data, and delivering clear and understandble materials'
 widget2:
@@ -20,7 +20,7 @@ widget2:
 
 widget3:
   title: "Self Learn Tutorials"
-  url: /tutorials/'
+  url: /courses/'
   image: sanket-mishra-r11DL_vyJ7I-unsplash.jpg
   text: 'Nothing like trying out the work yourself'
 #
