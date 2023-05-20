@@ -27,6 +27,8 @@ Our expert-led course offers step-by-step instructions on how to interact with t
 
 By the end of this course, you'll be confidently building, testing, and deploying AI applications using ChatGPT and Python. Embark on this transformative learning journey and discover how to revolutionize your projects with the power of Conversational AI!
 
+<a href="https://www.mlacademy.io/register_chatgpt_course" style="color: red;">Click here to register</a>
+<p> &nbsp </p>
 <a href="https://www.mlacademy.io/10_day_chatgpt/" style="color: red;">Click here for Agenda and details</a>
 
 
