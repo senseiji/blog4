@@ -15,15 +15,18 @@ Embark on an unforgettable journey with us, and get ready to unleash your inner 
 ## Build Application with ChatGPT
 
 #### Next Class : Tuesdays and Thursdays for 10 days from  May 23rd  
-#### Duration   : 6:30 PM to 8:30 PM 
-#### Cost       : USD 499.00 
+#### Duration   : 6:30 PM to 8:30 PM (PST)
+#### Cost       : USD 499.99 
 
 <a href="https://www.mlacademy.io/register_chatgpt_course" style="color: red;">Click here to register</a>
 
 ### Overview of the course
 Join us for an exciting and comprehensive course on harnessing the incredible potential of ChatGPT using OpenAI's API and Python! Whether you're an AI enthusiast, a software engineer, or a data scientist, our 10-session course is designed to equip you with the skills to construct robust applications with one of the world's most advanced language models.
+
 Our expert-led course offers step-by-step instructions on how to interact with the OpenAI API, integrate it with Python, and create practical, innovative applications using ChatGPT. From understanding the basics of ChatGPT and the OpenAI API to designing conversational agents for customer service or content generation, we've got you covered!
+
 By the end of this course, you'll be confidently building, testing, and deploying AI applications using ChatGPT and Python. Embark on this transformative learning journey and discover how to revolutionize your projects with the power of Conversational AI!
+
 <a href="https://www.mlacademy.io/10_day_chatgpt/" style="color: red;">Click here for Agenda and details</a>
 
 
