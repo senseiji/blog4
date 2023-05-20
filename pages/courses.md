@@ -12,6 +12,22 @@ permalink           : "/courses/"
 
 Embark on an unforgettable journey with us, and get ready to unleash your inner machine learning and deep learning expert. Welcome to the Machine Learning Mastery community, where your future is crafted by your own hands!
 
+## Build Application with ChatGPT
+
+#### Next Class : Tuesdays and Thursdays for 10 days from  May 23rd  
+#### Duration   : 6:30 PM to 8:30 PM 
+#### Cost       : USD 499.00 
+
+<a href="https://www.mlacademy.io/register_chatgpt_course" style="color: red;">Click here to register</a>
+
+### Overview of the course
+Join us for an exciting and comprehensive course on harnessing the incredible potential of ChatGPT using OpenAI's API and Python! Whether you're an AI enthusiast, a software engineer, or a data scientist, our 10-session course is designed to equip you with the skills to construct robust applications with one of the world's most advanced language models.
+Our expert-led course offers step-by-step instructions on how to interact with the OpenAI API, integrate it with Python, and create practical, innovative applications using ChatGPT. From understanding the basics of ChatGPT and the OpenAI API to designing conversational agents for customer service or content generation, we've got you covered!
+By the end of this course, you'll be confidently building, testing, and deploying AI applications using ChatGPT and Python. Embark on this transformative learning journey and discover how to revolutionize your projects with the power of Conversational AI!
+<a href="https://www.mlacademy.io/10_day_chatgpt/" style="color: red;">Click here for Agenda and details</a>
+
+
+
 ## Introduction to ChatGPT and OpenAI
 
 #### Next Class : May 20th 9:30 AM PST
@@ -20,37 +36,10 @@ Embark on an unforgettable journey with us, and get ready to unleash your inner 
 
 <a href="https://www.mlacademy.io/register" style="color: red;">Click here to register</a>
 
-
 ### Overview of the course
 By the end of this course, you will not only have a solid understanding of ChatGPT and its API, but also hands-on experience in working with it in Python, specifically within a Jupyter notebook environment. You will have the skills and knowledge necessary to begin building your own applications using the ChatGPT-API. We look forward to your active participation and are excited to see what you will build!
 
-### Course Agenda: Introduction to ChatGPT and ChatGPT-API with Python
 
-
-**Module 1**: Introduction to ChatGPT
-1. Overview of ChatGPT
-1. Understanding the model architecture
-1. Use cases and applications of ChatGPT
-1. Basics of Python for ChatGPT
-
-**Module 2**: Setting up the environment
-1. Sending requests to the ChatGPT-API
-1. Processing and understanding the responses
-1. Building Basic Applications with ChatGPT-API
-
-**Module 3**: Basics of APIs: What they are and how they work
-1. Deep dive into the ChatGPT-API: Endpoints, request/response model, rate limits
-1. Deep dive into the ChatGPT-API: Endpoints, request/response model, rate limits
-1. Deep dive into the ChatGPT-API: Endpoints, request/response model, rate limits
-1. Idea brainstorming: Possible applications for ChatGPT
-1. Step-by-step guide to building a basic application using ChatGPT-API
-1. Debugging and error handling
-1. Best Practices and Tips
-
-**Module 4**: Overview of best practices when using ChatGPT and its API
-1. Tips for efficient and responsible usage
-1. Open forum for questions and discussions
-1. Next steps and additional resources
 
 
 
