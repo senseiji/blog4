@@ -16,6 +16,7 @@ Join us for an exciting and comprehensive course on harnessing the incredible po
 
 #### Next Class : Tuesdays and Thursdays for 10 days from  May 23rd  
 #### Duration   : 6:30 PM to 8:30 PM 
+#### Location   : Online using Google Meet
 #### Cost       : USD 499.00 
 
 <a href="https://www.mlacademy.io/register_chatgpt_course" style="color: red;">Click here to register</a>

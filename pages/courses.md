@@ -16,6 +16,7 @@ Embark on an unforgettable journey with us, and get ready to unleash your inner 
 
 #### Next Class : Tuesdays and Thursdays for 10 days from  May 23rd  
 #### Duration   : 6:30 PM to 8:30 PM (PST)
+#### Location   : Online using Google Meet
 #### Cost       : USD 499.99 
 
 <a href="https://www.mlacademy.io/register_chatgpt_course" style="color: red;">Click here to register</a>
