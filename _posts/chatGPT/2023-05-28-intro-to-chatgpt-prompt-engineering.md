@@ -22,7 +22,7 @@ image:
 
 ---
 
-# Introduction to Using ChatGPT Python API
+# Introduction to Prompt Engineering for ChatGPT
 
 <div>
 {% include _chatgpt_blogs_head.html %}
