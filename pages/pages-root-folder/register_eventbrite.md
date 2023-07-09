@@ -1,7 +1,7 @@
 ---
 layout              : page
 title               : "register"
-permalink           : "/register/"
+permalink           : "/register_eventbrite/"
 ---
 
 <div id="eventbrite-widget-container-635020331907"></div>
