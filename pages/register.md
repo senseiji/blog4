@@ -1,24 +1,6 @@
 ---
 layout              : page
-title               : "register"
-permalink           : "/register/"
+title               : "attendance"
+permalink           : "/attendance/"
 ---
-
-<div id="eventbrite-widget-container-635020331907"></div>
-
-<script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
-
-<script type="text/javascript">
-    var exampleCallback = function() {
-        console.log('Order complete!');
-    };
-
-    window.EBWidgets.createWidget({
-        widgetType: 'checkout',
-        eventId: '635020331907',
-        iframeContainerId: 'eventbrite-widget-container-635020331907',
-
-        iframeContainerHeight: 425,  
-        onOrderComplete: exampleCallback  
-    });
-</script>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdeR0sduQND5Ain3W5C6mzvq9tKkKJCqB4forE8Cbp4xk6rSw/viewform?embedded=true" width="800" height="1138" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
